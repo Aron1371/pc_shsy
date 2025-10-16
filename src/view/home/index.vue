@@ -486,7 +486,6 @@
                   z-index: 10;
                 "
               >
-                <th style="text-overflow: ellipsis">日期</th>
                 <th style="text-overflow: ellipsis">报价单位</th>
                 <th style="text-overflow: ellipsis">接收站名</th>
                 <th style="text-overflow: ellipsis">销售地</th>
@@ -496,15 +495,6 @@
             </thead>
             <tbody id="tbody_content">
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -559,15 +549,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司华北分公司
                 </td>
                 <td
@@ -608,15 +589,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -671,15 +643,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司浙江分公司
                 </td>
                 <td
@@ -720,15 +683,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -783,15 +737,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司广东分公司
                 </td>
                 <td
@@ -832,15 +777,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -895,15 +831,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司广东分公司
                 </td>
                 <td
@@ -951,15 +878,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司江苏分公司
                 </td>
                 <td
@@ -1000,15 +918,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1063,15 +972,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司江苏分公司
                 </td>
                 <td
@@ -1112,15 +1012,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1175,15 +1066,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司江苏分公司
                 </td>
                 <td
@@ -1231,15 +1113,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司江苏分公司
                 </td>
                 <td
@@ -1280,15 +1153,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1343,15 +1207,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   中海石油气电集团有限责任公司广东分公司
                 </td>
                 <td
@@ -1392,15 +1247,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1455,15 +1301,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   山西华新液化天然气集团有限公司销售分公司
                 </td>
                 <td
@@ -1504,15 +1341,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1567,15 +1395,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   山西华新液化天然气集团有限公司销售分公司
                 </td>
                 <td
@@ -1616,15 +1435,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1679,15 +1489,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   山西华新液化天然气集团有限公司销售分公司
                 </td>
                 <td
@@ -1728,15 +1529,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1791,15 +1583,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   山西华新液化天然气集团有限公司销售分公司
                 </td>
                 <td
@@ -1847,15 +1630,6 @@
                     white-space: nowrap;
                   "
                 >
-                  2025-10-16
-                </td>
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
                   山西华新液化天然气集团有限公司销售分公司
                 </td>
                 <td
@@ -1896,15 +1670,6 @@
                 </td>
               </tr>
               <tr role="row" style="text-align: center; height: 30px">
-                <td
-                  style="
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </td>
                 <td
                   style="
                     text-overflow: ellipsis;
@@ -1967,26 +1732,13 @@
         </div>
         <div class="price_form_bg" id="index_price_1" style="display: block">
           <div class="_3001_table_th">
-            <div style="width: 8%; text-overflow: ellipsis">交易日期</div>
             <div style="width: 8%; text-overflow: ellipsis">挂牌价</div>
             <div style="width: 12%; text-overflow: ellipsis">成交量</div>
             <div style="width: 44%; text-overflow: ellipsis">交收地点</div>
-            <div style="width: 14%; text-overflow: ellipsis">交收起始日</div>
-            <div style="width: 14%; text-overflow: ellipsis">交收截止日</div>
           </div>
           <div class="_3001_table_td _3001_scroll_list_ul">
             <ul id="cxgp_data">
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-30
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2008,24 +1760,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2047,24 +1783,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2086,24 +1806,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2125,24 +1829,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2164,24 +1852,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2203,24 +1875,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2242,24 +1898,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2281,24 +1921,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2320,24 +1944,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2359,24 +1967,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2398,24 +1990,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2437,24 +2013,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2476,24 +2036,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2515,24 +2059,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2554,24 +2082,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2593,24 +2105,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2632,24 +2128,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2671,24 +2151,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2710,24 +2174,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2749,24 +2197,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2788,24 +2220,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2827,24 +2243,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2866,24 +2266,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2905,24 +2289,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2944,24 +2312,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -2983,24 +2335,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3022,24 +2358,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3061,24 +2381,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3100,24 +2404,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3139,24 +2427,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3178,24 +2450,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3217,24 +2473,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3256,24 +2496,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3295,24 +2519,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3334,24 +2542,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3373,24 +2565,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3412,24 +2588,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3451,24 +2611,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3490,24 +2634,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3529,24 +2657,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3568,24 +2680,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3607,24 +2703,8 @@
                 >
                   山东省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3646,24 +2726,8 @@
                 >
                   重庆市
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-25
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-25
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3685,24 +2749,8 @@
                 >
                   重庆市
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-25
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-25
-                </div>
               </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
+              <li>x 
                 <div
                   style="
                     width: 8%;
@@ -3724,24 +2772,8 @@
                 >
                   重庆市
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-25
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-25
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3763,24 +2795,8 @@
                 >
                   重庆市
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-25
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-25
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-29
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3802,24 +2818,8 @@
                 >
                   重庆市
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-08-25
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-25
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-26
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3841,24 +2841,8 @@
                 >
                   河北省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-23
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3880,24 +2864,8 @@
                 >
                   吉林省
                 </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-01-01
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-12-31
-                </div>
               </li>
               <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-09-16
-                </div>
                 <div
                   style="
                     width: 8%;
@@ -3918,2838 +2886,6 @@
                   "
                 >
                   山东省
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 14%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="price_form_bg" id="index_price_2" style="display: none">
-          <div class="_3001_table_jj_th">
-            <div style="width: 8%; text-overflow: ellipsis">交易日期</div>
-            <div style="width: 8%; text-overflow: ellipsis">挂牌价</div>
-            <div style="width: 12%; text-overflow: ellipsis">成交量</div>
-            <div style="width: 36%; text-overflow: ellipsis">交收地点</div>
-            <div style="width: 15%; text-overflow: ellipsis">交收起始日</div>
-            <div style="width: 15%; text-overflow: ellipsis">交收截止日</div>
-          </div>
-          <div class="_3001_table_td _3001_scroll_list_ul">
-            <ul id="cxjj_data">
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">8</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">65</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">8</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">6</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">60</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">45</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">4</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">13</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">5</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">6</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">3</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">20</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">65</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">200</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">100</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">100</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">100</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">100</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">200</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">600</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">200</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">200</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">200</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">100</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-05
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">5</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">3</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">3</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-31
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">594</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">132</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">132</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">132</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">66</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">132</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">66</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">176</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">132</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">66</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">66</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">88</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-29
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">198</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-02
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">8</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">4</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-03
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">30</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">20</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">60</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-01
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-09-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">220</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">22</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">44</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">44</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 8%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-08-28
-                </div>
-                <div style="width: 8%; text-overflow: ellipsis">NaN</div>
-                <div style="width: 12%; text-overflow: ellipsis">88</div>
-                <div style="width: 36%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-29
-                </div>
-                <div style="width: 15%; text-overflow: ellipsis">
-                  2025-08-30
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="price_form_bg" id="index_price_3" style="display: none">
-          <div class="_3001_table_bj_th">
-            <div style="width: 15%; text-overflow: ellipsis">执行日期</div>
-            <div style="width: 45%; text-overflow: ellipsis">液厂/接收站</div>
-            <div style="width: 18%; text-overflow: ellipsis">出厂价格</div>
-            <div style="width: 15%; text-overflow: ellipsis">交收截止日</div>
-          </div>
-          <div class="_3001_table_td _3001_scroll_list_ul">
-            <ul id="cxbj_data">
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  北燃南港
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新寿阳液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3870.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新晋中液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3820.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新运城液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新晋东液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新太原液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新临汾液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3680.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新大同液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新原平液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新襄垣液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3870.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  江苏滨海接收站（华北）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  国网天津接收站
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（河南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（安徽）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（江苏）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（河南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（湖南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">5500.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（湖北）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（上海）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（浙江）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（安徽）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（江苏）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（广东）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">5500.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-16
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新天煜液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  北燃南港
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新寿阳液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3820.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新晋中液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3730.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新运城液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3710.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新晋东液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3880.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新太原液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3900.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新临汾液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3710.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新大同液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3780.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新原平液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新襄垣液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3780.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  江苏滨海接收站（华北）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  国网天津接收站
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（河南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（安徽）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  滨海接收站（江苏）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（河南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（湖南）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">5500.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（湖北）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（上海）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（浙江）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">NaN</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+-
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（安徽）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  宁波接收站（江苏）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  珠海接收站（广东）
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">5500.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-15
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新天煜液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3800.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-14
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  北燃南港
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">4930.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+3
-                </div>
-              </li>
-              <li>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  2025-10-14
-                </div>
-                <div
-                  style="
-                    width: 45%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  华新寿阳液化
-                </div>
-                <div style="width: 18%; text-overflow: ellipsis">3840.00</div>
-                <div
-                  style="
-                    width: 15%;
-                    text-overflow: ellipsis;
-                    overflow: hidden;
-                    white-space: nowrap;
-                  "
-                >
-                  T+0
                 </div>
               </li>
             </ul>
