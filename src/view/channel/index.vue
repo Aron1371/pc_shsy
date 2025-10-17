@@ -96,6 +96,7 @@ import {
 import { useRouter } from "vue-router";
 import SuperTask from "../../utils/superTask";
 import { isMobile } from "../../utils/index.js";
+import routeConfigManager from "../../utils/routeConfig.js";
 
 const activeIndex = ref(null);
 const urlList = reactive([]);
@@ -128,6 +129,7 @@ const jump = (item) => {
 };
 
 let timeInterval = ref(null);
+let configRefreshInterval = ref(null);
 
 // function showApp() {
 //   var winWidth = $(window).width();
@@ -141,26 +143,55 @@ let timeInterval = ref(null);
 //     $("#channel").css({ zoom: "", transform: "" });
 //   }
 // }
-onMounted(() => {
+onMounted(async () => {
   // showApp();
-  fetch(config.APIURL)
-    .then((response) => {
-      return response.json();
-    })
-    .then((data) => {
-      if (data.list[0].routes.length > 0) {
-        let index = 0;
-        data.list[0].routes.forEach((item) => {
-          const temp = { url: item, time: null, order: ++index };
-          urlList.push(temp);
-        });
-        getFastestLinks();
-        timeInterval = setInterval(getFastestLinks, config.INTERVAL);
-      }
-    })
-    .catch((error) => {
-      console.error("请求失败:", error);
-    });
+  try {
+    // 使用动态路由配置管理器加载配置
+    const allRoutes = await routeConfigManager.getAllRoutes();
+    
+    if (allRoutes.length > 0) {
+      // 清空现有列表
+      urlList.splice(0, urlList.length);
+      
+      // 添加新的路由
+      allRoutes.forEach((route) => {
+        urlList.push(route);
+      });
+      
+      console.log(`已加载 ${allRoutes.length} 个路由节点`);
+      getFastestLinks();
+      timeInterval = setInterval(getFastestLinks, config.INTERVAL);
+      
+      // 设置配置刷新间隔（每5分钟检查一次配置更新）
+      configRefreshInterval = setInterval(async () => {
+        try {
+          const newRoutes = await routeConfigManager.getAllRoutes();
+          // 检查是否有新的路由或路由有变化
+          if (JSON.stringify(newRoutes.map(r => r.url).sort()) !== 
+              JSON.stringify(urlList.map(r => r.url).sort())) {
+            console.log("检测到路由配置更新，重新加载...");
+            
+            // 清空现有列表
+            urlList.splice(0, urlList.length);
+            
+            // 添加新的路由
+            newRoutes.forEach((route) => {
+              urlList.push(route);
+            });
+            
+            console.log(`已更新路由配置，共 ${newRoutes.length} 个节点`);
+          }
+        } catch (error) {
+          console.error("检查配置更新失败:", error);
+        }
+      }, 5 * 60 * 1000); // 5分钟检查一次
+      
+    } else {
+      console.warn("没有找到可用的路由配置");
+    }
+  } catch (error) {
+    console.error("加载路由配置失败:", error);
+  }
   // 查找是否已经存在 viewport meta 标签
   let meta = document.querySelector('meta[name="viewport"]');
 
@@ -185,6 +216,7 @@ onBeforeUnmount(() => {
 
 onUnmounted(() => {
   clearInterval(timeInterval);
+  clearInterval(configRefreshInterval);
 });
 
 const router = useRouter();
@@ -251,6 +283,37 @@ function fetchWithTiming(url, timeout = 5000) {
 const maskStatus = ref(0);
 const loadingTip = ref("正在检测，请耐心等待");
 const timeoutTip = ref("线路超时，请更换其他线路");
+
+// 手动刷新配置的函数，可以在浏览器控制台调用
+const refreshConfig = async () => {
+  try {
+    console.log("手动刷新路由配置...");
+    routeConfigManager.clearCache();
+    const allRoutes = await routeConfigManager.getAllRoutes();
+    
+    if (allRoutes.length > 0) {
+      // 清空现有列表
+      urlList.splice(0, urlList.length);
+      
+      // 添加新的路由
+      allRoutes.forEach((route) => {
+        urlList.push(route);
+      });
+      
+      console.log(`配置已刷新，共 ${allRoutes.length} 个节点`);
+      
+      // 重新开始测速
+      getFastestLinks();
+    }
+  } catch (error) {
+    console.error("刷新配置失败:", error);
+  }
+};
+
+// 将刷新函数暴露到全局，方便调试
+if (typeof window !== 'undefined') {
+  window.refreshRouteConfig = refreshConfig;
+}
 </script>
 
 <style lang="scss" scoped>

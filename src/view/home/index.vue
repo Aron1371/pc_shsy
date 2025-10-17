@@ -19,10 +19,10 @@
       </div>
 
       <a class="prev" href="javascript:;" @click="prevSlide" stat="prev1001">
-        <img src="/src/assets/images/l-btn.png" alt="上一张" />
+        <img :src="leftBtn" alt="上一张" />
       </a>
       <a class="next" href="javascript:;" @click="nextSlide" stat="next1002">
-        <img src="/src/assets/images/r-btn.png" alt="下一张" />
+        <img :src="rightBtn" alt="下一张" />
       </a>
     </div>
 
@@ -1728,13 +1728,22 @@
 import { ref, onMounted, onUnmounted } from "vue";
 import "../../assets/market_3001_11_index.css";
 
+// 导入图片资源
+import image1 from "../../assets/images/1.jpg";
+import image2 from "../../assets/images/2.jpg";
+import image3 from "../../assets/images/3.jpg";
+import image4 from "../../assets/images/4.jpg";
+import image5 from "../../assets/images/5.jpg";
+import leftBtn from "../../assets/images/l-btn.png";
+import rightBtn from "../../assets/images/r-btn.png";
+
 // 轮播图数据
 const slides = ref([
-  { image: "/src/assets/images/1.jpg", title: "轮播图1" },
-  { image: "/src/assets/images/2.jpg", title: "轮播图2" },
-  { image: "/src/assets/images/3.jpg", title: "轮播图3" },
-  { image: "/src/assets/images/4.jpg", title: "轮播图4" },
-  { image: "/src/assets/images/5.jpg", title: "轮播图5" },
+  { image: image1, title: "轮播图1" },
+  { image: image2, title: "轮播图2" },
+  { image: image3, title: "轮播图3" },
+  { image: image4, title: "轮播图4" },
+  { image: image5, title: "轮播图5" },
 ]);
 
 // 当前显示的轮播图索引
