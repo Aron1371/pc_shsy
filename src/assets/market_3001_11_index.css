@@ -351,7 +351,6 @@
   text-align: center;
   color: #ffffff;
   padding-left: 53px;
-  background: url("../img/zxgg-tb.png") no-repeat left bottom #385d7c;
 }
 
 ._3001_new_gao ._3001_con {
@@ -593,7 +592,6 @@
   height: 500px;
   margin-top: 10px;
   width: 100%;
-  background: url("../../img/mall/zx-bj.png") no-repeat center 100%;
   clear: both;
 }
 
@@ -1030,7 +1028,6 @@
 .center-search .title-choose {
   height: 70px;
   width: 444px;
-  background: url("../../img/mall/sousuo_bag.png") no-repeat center;
 }
 
 .center-search .title-choose textarea {
@@ -1066,7 +1063,6 @@
   position: absolute;
   top: 80px;
   left: 0;
-  background: url("../../img/mall/left.png") no-repeat center;
   z-index: 10;
 }
 
@@ -1077,7 +1073,6 @@
   position: absolute;
   top: 80px;
   right: 0;
-  background: url("../../img/mall/right.png") no-repeat center;
   z-index: 10;
 }
 

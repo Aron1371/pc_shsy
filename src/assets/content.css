@@ -47,7 +47,7 @@
 	font-size: 15px;
 	margin-bottom: 12px;
 	padding-left: 18px;
-	background: url(../img/centent_left_menu.png) no-repeat center left;
+	background: url(../assets/images/centent_left_menu.png) no-repeat center left;
 	cursor: pointer;
 }
 
@@ -58,10 +58,10 @@
 	margin-left: 24px;
 	font-size: 14px;
 	padding-left: 18px;
-	background: url(../img/centent_left_menu.png) no-repeat center left;
+	background: url(../assets/images/centent_left_menu.png) no-repeat center left;
 }
 .centent_left_menu:hover{
-	background: url(../img/centent_left_menu_now.png) no-repeat center left;
+	background: url(../assets/images/centent_left_menu_now.png) no-repeat center left;
 }
 .centent_left_menu a:hover{
 	color: #4e6189;
@@ -72,7 +72,7 @@
 
 .centent_left_menu_now {
 	color: #4e6189;
-	background: url(../img/centent_left_menu_now.png) no-repeat center left;
+	background: url(../assets/images/centent_left_menu_now.png) no-repeat center left;
 }
 .centent_left_menu_now a{
 	color: #4e6189;
@@ -90,7 +90,7 @@
 	padding-left: 18px;
 	width: 100%;
 	height: 60px;
-	background: url(../img/centent_right_tlt.png) no-repeat bottom center;
+	background: url(../assets/images/centent_right_tlt.png) no-repeat bottom center;
 }
 
 .centent_right_chart {
@@ -150,7 +150,7 @@
 	height: 36px;
 	line-height: 36px;
 	text-indent: 26px;
-	background: url(../img/centent_right_list.png) no-repeat center left;
+	background: url(../assets/images/centent_right_list.png) no-repeat center left;
 }
 
 
@@ -273,7 +273,7 @@
 	overflow: hidden;/*超出部分隐藏*/
 	white-space: nowrap;/*不换行*/
 	text-overflow:ellipsis;/*超出部分文字以...显示*/
-	background: url(../img/centent_right_list.png) no-repeat center left;
+	background: url(../assets/images/centent_right_list.png) no-repeat center left;
 }
 
 /*page*/
@@ -283,9 +283,4 @@
 .page-large a.none{border:none;}
 .page-large .Num:hover{border:1px solid #ef3838; color:#ef3838;}
 .page-large .on:hover{border:1px solid #ef3838; color:#fff;}
-
-.page-large .prev-page{background:url(/images/small-prev-page.png) center center no-repeat;}
-.page-large .next-page{background:url(/images/small-next-page.png) center center no-repeat;}
-.page-large .prev-page:hover{border:1px solid #ef3838; background:url(/images/small-prev-page-on.png) center center no-repeat #ef3838;}
-.page-large .next-page:hover{border:1px solid #ef3838; background:url(/images/small-next-page-on.png) center center no-repeat #ef3838;}
 

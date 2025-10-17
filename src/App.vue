@@ -7,7 +7,7 @@
   >
     <div class="logo_bg">
       <div class="logo">
-        <h1 class="logo_area"><img src="/img/logo.png" /></h1>
+        <h1 class="logo_area"><img src="./assets/images/logo.png" /></h1>
       </div>
     </div>
     <div class="navigation1">
@@ -102,8 +102,9 @@
   </div>
 </template>
 <script setup>
-import { reactive, watch } from "vue";
+import { reactive, watch,onMounted } from "vue";
 import { useRoute } from "vue-router";
+import config from "./config";
 const state = reactive({
   isChannel: false,
 });
@@ -118,6 +119,10 @@ watch(
     }
   }
 );
+
+onMounted(() => {
+  document.title = config.TITLE;
+});
 </script>
 <style scoped>
 .logo {

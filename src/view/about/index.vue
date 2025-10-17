@@ -92,9 +92,9 @@
               "
             >
               <img
-                src="../../img/27163953efco.png"
+                src="../../assets/images/27163953efco.png"
                 title="20250527163649.png"
-                _src="../../img/27163953efco.png"
+                _src="../../assets/images/27163953efco.png"
                 alt="20250527163649.png"
                 style="text-align: center; max-width: 50%"
               />
@@ -115,7 +115,7 @@
             >
               <img
                 alt=""
-                src="../../img/2017-01-10-11-15-04_6605681402898444_901905918560008192.png"
+                src="../../assets/images/2017-01-10-11-15-04_6605681402898444_901905918560008192.png"
               />
             </p>
             <p style="line-height: 2em; margin-top: 10px; margin-bottom: 10px">
@@ -461,9 +461,9 @@
             <p></p>
             <p>
               <img
-                src="../../img/101519510i5i.png"
+                src="../../assets/images/101519510i5i.png"
                 title="微信截图_20251010151819.png"
-                _src="../../img/101519510i5i.png"
+                _src="../../assets/images/101519510i5i.png"
                 alt="微信截图_20251010151819.png"
                 width="719"
                 height="508"
@@ -498,7 +498,7 @@
             </p>
             <p style="text-indent: 0em; text-align: center">
               <img
-                src="../../img/31205723r1s7.jpg"
+                src="../../assets/images/31205723r1s7.jpg"
                 title="1.商飞.jpg"
                 alt="1.商飞.jpg"
                 width="650"
@@ -528,7 +528,7 @@
             </p>
             <p style="text-indent: 0em; text-align: center">
               <img
-                src="../../img/31205829revn.jpg"
+                src="../../assets/images/31205829revn.jpg"
                 title="2.洋山港.jpg"
                 alt="2.洋山港.jpg"
                 width="650"
@@ -550,7 +550,7 @@
             <p style="text-indent: 2em"><br /></p>
             <p style="text-indent: 0em; text-align: center">
               <img
-                src="../../img/31210133q1wc.jpg"
+                src="../../assets/images/31210133q1wc.jpg"
                 title="3.参观周恩来展.jpg"
                 alt="3.参观周恩来展.jpg"
                 width="650"
@@ -579,7 +579,7 @@
           <div class="centent_right_chart">
             <p style="text-align: left">
               <img
-                src="../../img/16094734xh5s.png"
+                src="../../assets/images/16094734xh5s.png"
                 title="2.png"
                 _src="/u/cms/www/202501/16094734xh5s.png"
                 alt="2.png"

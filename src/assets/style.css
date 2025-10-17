@@ -84,10 +84,6 @@ input::-moz-focus-inner {
     border: 0;
 }
 
-*html {
-    background-image: url(about:blank);
-    background-attachment: fixed;
-}
 
 /* ä¿®æ­£IE6æŒ¯åŠ¨bug */
 
@@ -200,7 +196,7 @@ input::-moz-focus-inner {
  */
 
 #popup-overlay {
-    dispaly: none;
+    display: none;
     position: fixed;
     top: 0;
     left: 0;

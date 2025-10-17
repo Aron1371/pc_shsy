@@ -19,10 +19,10 @@
       </div>
 
       <a class="prev" href="javascript:;" @click="prevSlide" stat="prev1001">
-        <img src="/img/l-btn.png" alt="上一张" />
+        <img src="/src/assets/images/l-btn.png" alt="上一张" />
       </a>
       <a class="next" href="javascript:;" @click="nextSlide" stat="next1002">
-        <img src="/img/r-btn.png" alt="下一张" />
+        <img src="/src/assets/images/r-btn.png" alt="下一张" />
       </a>
     </div>
 
@@ -52,7 +52,7 @@
           >
             <li style="position: absolute; width: 400px; left: 0px; top: 0px">
               <a>
-                <img src="../../img/11111344cwwx.jpg" />
+                <img src="../../assets/images/11111344cwwx.jpg" />
               </a>
             </li>
           </ul>
@@ -409,31 +409,31 @@
 
         <div class="index_chart" :class="{ active: activeIndexTab === 6 }">
           <div class="chart">
-            <img src="../../img/indexzhishu1.jpg" />
+            <img src="../../assets/images/indexzhishu1.jpg" />
           </div>
         </div>
 
         <div class="index_chart" :class="{ active: activeIndexTab === 5 }">
           <div class="chart" style="width: 1198px">
-            <img src="../../img/indexzhishu2.jpg" />
+            <img src="../../assets/images/indexzhishu2.jpg" />
           </div>
         </div>
 
         <div class="index_chart" :class="{ active: activeIndexTab === 7 }">
           <div class="chart" style="width: 1198px">
-            <img src="../../img/indexzhishu3.jpg" />
+            <img src="../../assets/images/indexzhishu3.jpg" />
           </div>
         </div>
 
         <div class="index_chart" :class="{ active: activeIndexTab === 9 }">
           <div class="chart" style="width: 1198px">
-            <img src="../../img/indexzhishu5.jpg" />
+            <img src="../../assets/images/indexzhishu5.jpg" />
           </div>
         </div>
 
         <div class="index_chart" :class="{ active: activeIndexTab === 10 }">
           <div class="chart" style="width: 1198px">
-            <img src="../../img/indexzhishu6.jpg" />
+            <img src="../../assets/images/indexzhishu6.jpg" />
           </div>
         </div>
 
@@ -1730,11 +1730,11 @@ import "../../assets/market_3001_11_index.css";
 
 // 轮播图数据
 const slides = ref([
-  { image: "/img/1.jpg", title: "轮播图1" },
-  { image: "/img/2.jpg", title: "轮播图2" },
-  { image: "/img/3.jpg", title: "轮播图3" },
-  { image: "/img/4.jpg", title: "轮播图4" },
-  { image: "/img/5.jpg", title: "轮播图5" },
+  { image: "/src/assets/images/1.jpg", title: "轮播图1" },
+  { image: "/src/assets/images/2.jpg", title: "轮播图2" },
+  { image: "/src/assets/images/3.jpg", title: "轮播图3" },
+  { image: "/src/assets/images/4.jpg", title: "轮播图4" },
+  { image: "/src/assets/images/5.jpg", title: "轮播图5" },
 ]);
 
 // 当前显示的轮播图索引

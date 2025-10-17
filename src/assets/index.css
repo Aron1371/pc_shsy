@@ -169,7 +169,6 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	width: 28px;
 	height: 20px;
 	float: right;
-	background: url(../img/search.png) no-repeat;
 }
 
 
@@ -248,7 +247,7 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	float: left;
 	width: 350px;
 	height: 40px;
-	background: url(../img/text_list.png) no-repeat bottom left;
+	background: url(../assets/images/text_list.png) no-repeat bottom left;
 	padding:0 0 0 22px;
 	font-size: 15px;
 	line-height: 40px;
@@ -450,7 +449,7 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 .foot_tlt {
 	margin: 36px 66px 16px 0;
 	padding-left: 24px;
-	background: url(../img/foot_tlt.png) no-repeat center left;
+	background: url(../assets/images/foot_tlt.png) no-repeat center left;
 	font-size: 16px;
 }
 
@@ -510,10 +509,8 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	line-height: 32px;
 	padding-left: 30px;
 	color: #333;
-	background: url(/img/tab_mune1.png) no-repeat center left;
 }
 .navigation_tab_menu1:hover{
-	background: url(/img/tab_mune3.png) no-repeat center left;
 	background-color: #4e6189;
 	color: #fff;
 	transition: all 0.3s;
@@ -524,10 +521,8 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	line-height: 32px;
 	padding-left: 60px;
 	color: #333;
-	background: url(/img/tab_mune2.png) no-repeat center left;
 }
 .navigation_tab_menu2:hover{
-	background: url(/img/tab_mune4.png) no-repeat center left;
 	color: #fff;
     background-color: #4e6189;
 	transition: all 0.3s;
@@ -552,7 +547,6 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	display: none;
 	width: 180px;
 	height: 414px;
-	background: url(/img/phone_mune.png) no-repeat;
 	position: absolute;
 	right: 10px;
 	top: 48px;
