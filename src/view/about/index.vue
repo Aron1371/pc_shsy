@@ -625,23 +625,6 @@
                 margin-bottom: 0px;
                 padding: 0px;
                 text-wrap-mode: wrap;
-                line-height: 2em;
-              "
-            >
-              <span
-                style="
-                  font-size: 16px;
-                  font-family: 微软雅黑, 'Microsoft YaHei';
-                "
-                >客服电话：021-68821717</span
-              >
-            </p>
-            <p
-              style="
-                margin-top: 0px;
-                margin-bottom: 0px;
-                padding: 0px;
-                text-wrap-mode: wrap;
                 line-height: 1.5em;
               "
             >

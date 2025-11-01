@@ -153,4 +153,7 @@ onMounted(() => {
 a:hover {
   cursor: pointer;
 }
+.navigation_tab a{
+  font-size: 18px;
+}
 </style>
