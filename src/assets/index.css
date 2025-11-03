@@ -566,6 +566,17 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
 	
 }
 
+/* PC端适配 - 当屏幕宽度大于1200px时恢复正常显示 */
+@media (min-width: 1201px) {
+	html {
+		zoom: 1;
+	}
+	body {
+		margin: 0 auto;
+		max-width: none;
+	}
+}
+
 .member_list_bg {
 	width: 154px;
 	height: 154px;

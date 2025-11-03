@@ -20,7 +20,7 @@
         <RouterLink to="/">首页</RouterLink>
       </div>
       <div class="navigation_tab">
-        <RouterLink to="/channel">下载专区</RouterLink>
+        <RouterLink to="/channel">产品与业务</RouterLink>
         <ul class="navigation_tab_menu" style="display: none"></ul>
       </div>
       <div
@@ -122,7 +122,35 @@ watch(
 
 onMounted(() => {
   document.title = config.TITLE;
+  // 确保viewport设置正确
+  ensureViewportSetting();
 });
+
+// 监听路由变化，确保viewport设置始终正确
+watch(
+  () => route.fullPath,
+  () => {
+    // 路由切换后重新应用viewport设置
+    setTimeout(() => {
+      ensureViewportSetting();
+    }, 100);
+  }
+);
+
+// 确保viewport设置的函数
+function ensureViewportSetting() {
+  const viewport = document.querySelector('meta[name="viewport"]');
+  if (viewport) {
+    viewport.setAttribute('content', 'width=1200, user-scalable=no');
+    
+    // 强制触发重新渲染
+    const body = document.body;
+    const originalDisplay = body.style.display;
+    body.style.display = 'none';
+    body.offsetHeight; // 触发重排
+    body.style.display = originalDisplay;
+  }
+}
 </script>
 <style scoped>
 .logo {
@@ -154,6 +182,6 @@ a:hover {
   cursor: pointer;
 }
 .navigation_tab a{
-  font-size: 18px;
+  font-size:  20px;
 }
 </style>
